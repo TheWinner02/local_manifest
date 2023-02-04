@@ -2,9 +2,12 @@
 <manifest>
 
 <!-- Trees -->
-<project path="device/samsung/a40" name="TheWinner02/android_device_samsung_a40.git" remote="github" revision="13" />
-<project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
-<project path="vendor/10or" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
-<project path="kernel/10or/G" name="10orDevs/android_kernel_10or_G-4.9.git" remote="github" revision="lineage-18.1" />
+        <project path="device/samsung" name="eurekadevelopment/android_device_samsung_exynos7885" remote="githublab" revision="android-13" />
+        <project path="kernel/samsung/exynos7885" name="eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S" remote="githublab" revision="R10.1_rom" />
+        <project path="hardware/samsung_slsi/libbt" name="eurekadevelopment/android_hardware_samsung_slsi_libbt" remote="githublab" revision="android-13" />
+        <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="eurekadevelopment/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="githublab" revision="lineage-19.0" />
+        <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="githublab" revision="lineage-20" />
+        <project path="hardware/samsung" name="eurekadevelopment/android_hardware_samsung" remote="githublab" revision="AOSP-13"/>
+        <project path="vendor/samsung" name="eurekadevelopment/android_vendor_samsung_exynos7885" remote="githublab" revision="android-13"/>
 
 </manifest>
