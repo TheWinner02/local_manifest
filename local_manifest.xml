@@ -2,12 +2,12 @@
 <manifest>
 
 <!-- Trees -->
-        <project path="device/samsung" name="TheWinner02/android_device_samsung_exynos7885" remote="github" revision="android-13" />
-        <project path="kernel/samsung/exynos7885" name="TheWinner02/Eureka-Kernel-Exynos7885-Q-R-S" remote="github" revision="R11-AOSP" />
-        <project path="hardware/samsung_slsi/libbt" name="TheWinner02/android_hardware_samsung_slsi_libbt" remote="github" revision="android-13" />
-        <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="TheWinner02/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="github" revision="lineage-19.0" />
-        <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="TheWinner02/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="github" revision="lineage-20" />
-        <project path="hardware/samsung" name="TheWinner02/android_hardware_samsung" remote="github" revision="AOSP-13"/>
-        <project path="vendor/samsung" name="TheWinner02/android_vendor_samsung_exynos7885" remote="github" revision="android-13"/>
+        <project path="device/samsung" name="TheWinner02/android_device_samsung_exynos7885.git" remote="github" revision="android-13" />
+        <project path="kernel/samsung/exynos7885" name="TheWinner02/Eureka-Kernel-Exynos7885-Q-R-S.git" remote="github" revision="R11-AOSP" />
+        <project path="hardware/samsung_slsi/libbt" name="TheWinner02/android_hardware_samsung_slsi_libbt.git" remote="github" revision="android-13" />
+        <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="TheWinner02/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal.git" remote="github" revision="lineage-19.0" />
+        <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="TheWinner02/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib.git" remote="github" revision="lineage-20" />
+        <project path="hardware/samsung" name="TheWinner02/android_hardware_samsung.git" remote="github" revision="AOSP-13"/>
+        <project path="vendor/samsung" name="TheWinner02/android_vendor_samsung_exynos7885.git" remote="github" revision="android-13"/>
 
 </manifest>
