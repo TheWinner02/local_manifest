@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+        
+        <remote name="githun"
+          fetch="https://github.com/TheWinner02" />
 
 <!-- Trees -->
         <project path="device/samsung" name="TheWinner02/android_device_samsung_exynos7885.git" remote="github" revision="android-13" />
