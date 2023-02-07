@@ -2,7 +2,7 @@
 <manifest>
         
         <remote name="github"
-          fetch="https://github.com/" />
+          fetch="https://github.com" />
 
 <!-- Trees -->
         <project path="device/samsung" name="TheWinner02/android_device_samsung_exynos7885.git" remote="github" revision="android-13" />
