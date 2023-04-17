@@ -12,4 +12,7 @@
         <project path="hardware/samsung" name="eurekadevelopment/android_hardware_samsung" remote="githublab" revision="AOSP-13"/>
         <project path="vendor/samsung" name="eurekadevelopment/android_vendor_samsung_exynos7885" remote="githublab" revision="android-13"/>
         
+        <!-- clang -->
+        <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="kdrag0n/proton-clang" remote="githublab" revision="master" />
+        
 </manifest>
