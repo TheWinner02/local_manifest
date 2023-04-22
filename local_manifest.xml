@@ -3,6 +3,9 @@
         <remote name="githublab"
                 fetch="https://github.com" />
 
+        <remote name="me" 
+                fetch="https://gitlab.com/SauRavRwT" />
+
         <!-- Sync trees -->
         <project path="device/samsung" name="eurekadevelopment/android_device_samsung_exynos7885" remote="githublab" revision="android-13" />
         <project path="kernel/samsung/exynos7885" name="eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S" remote="githublab" revision="R10.1_rom" />
@@ -13,6 +16,6 @@
         <project path="vendor/samsung" name="eurekadevelopment/android_vendor_samsung_exynos7885" remote="githublab" revision="android-13"/>
         
         <!-- clang -->
-        <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="TheWinner02/clang-r450784d" remote="githublab" revision="master" />
-        
+        <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="me" revision="master" />
+
 </manifest>
