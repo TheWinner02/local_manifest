@@ -4,6 +4,6 @@
                 fetch="https://github.com" />
 
         <!-- Sync trees -->
-        <project path="device/samsung" name="eurekadevelopment/android_device_samsung_exynos7885" remote="githublab" revision="android-13" />
+        <project path="device/samsung" name="Thewinner02/android_device_samsung_exynos7885" remote="githublab" revision="android-13" />
         
 </manifest>
